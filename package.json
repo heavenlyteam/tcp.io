@@ -5,11 +5,14 @@
     "string_decoder": "^1.0.3",
     "util": "^0.10.3"
   },
-  "name": "tcp.io",
+  "name": "tcplib.io",
   "version": "0.0.1",
   "description": "Awesome nodejs module for TCP socket. Like as socket.io",
   "main": "lib.js",
   "repository": "https://github.com/heavenlyteam/tcp.io.git",
-  "author": "Vladislav Len <heavenly.beta@gmail.com>",
+  "author": {
+    "name": "Vladislav Len",
+    "email": "heavenly.beta@gmail.com"
+  },
   "license": "Apache License 2.0"
 }
