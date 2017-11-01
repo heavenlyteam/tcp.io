@@ -1,9 +1,17 @@
 {
   "dependencies": {
     "events": "^1.1.1",
+    "mongo": "^0.1.0",
+    "mongodb": "^2.2.33",
     "net": "^1.0.2",
     "string_decoder": "^1.0.3",
     "util": "^0.10.3"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "test": "mocha"
   },
   "name": "tcplib.io",
   "version": "0.0.1",
